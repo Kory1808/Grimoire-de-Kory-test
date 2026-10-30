@@ -1,0 +1,19 @@
+{
+  "name": "Le Grimoire de Kory",
+  "short_name": "Grimoire Kory",
+  "description": "Lune, tarot, astrologie et traditions ésotériques",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#171218",
+  "theme_color": "#21171f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "fr"
+}
